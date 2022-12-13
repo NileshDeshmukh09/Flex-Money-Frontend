@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "start": "npm run serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
@@ -14,6 +15,7 @@
     "core-js": "^3.8.3",
     "normalize.css": "^8.0.1",
     "vue": "^2.6.14",
+    "vue-router": "^3.6.5",
     "vue-toast-notification": "^0.6.3",
     "vuelidate": "^0.7.7"
   },

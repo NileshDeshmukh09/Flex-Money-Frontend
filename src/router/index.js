@@ -1,5 +1,5 @@
 import Router from 'vue-router';
-
+import HomePage from '@/components/HomePage'
 
 
 const router = new Router({
@@ -10,7 +10,7 @@ const router = new Router({
         path: '/',
         component: HomePage,
       },
-           
+
     ],
   });
   

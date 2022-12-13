@@ -14,6 +14,6 @@ export default {
 
 <style>
 @import './assets/external/normalize.css/normalize.css';
-@import './assets/external/@fortawesome/fontawesome-free/css/all.min.css';
+@import './assets/external/fontawesome-free/css/all.min.css';
 
 </style>
